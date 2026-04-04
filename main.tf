@@ -22,4 +22,4 @@ resource "aws_instance" "web" {
     Name = "HelloWorld"
   }
 }
-#go
+#goo
